@@ -1,3 +1,5 @@
+# E-commerce Delivery Fleet Deployment (Brazil) — Olist
+
 This project diagnoses the delivery bottlenecks, quantifying cost drivers, and operationalizing a deployment playbook for Brazil-wide e-commerce logistics. 
 The analysis focuses on high-value lanes (São Paulo, Rio de Janeiro, Minas Gerais), standardizes packaging to improve cube utilization, and implements forecast- and fuel-indexed operations to reduce late deliveries and margin erosion.
 
